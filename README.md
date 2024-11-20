@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MahmuodMurad</h1>
-<h3 align="center">Flutter Developer,Software Engineering,CS Student</h3>
+<h3 align="center">Flutter Developer,Software Engineering,CS Graduate</h3>
 
 - 🌱 I’m currently learning **Flutter, Database, Data Structure and Algorithm, etc..**
 
