@@ -15,7 +15,7 @@
 - 🎓 **CS Graduate** from Kafr El Sheikh University (2024)
 - 🧑‍🏫 Experienced Flutter instructor at multiple academies and GDSC
 - 🪖 Completed mandatory military service (Mar 2025 – Mar 2026)
-- 📄 My CV: [View here][https://drive.google.com/file/d/1CUkwh--h0bxBKPeumGOAROM6DMlGef9E/view?usp=sharing](https://drive.google.com/file/d/1wqqlYPU4uVE4Js74VB3iRI2dRGXcnQh8/view?usp=drivesdk)
+- 📄 My CV: [https://drive.google.com/file/d/1CUkwh--h0bxBKPeumGOAROM6DMlGef9E/view?usp=sharing](https://drive.google.com/file/d/1wqqlYPU4uVE4Js74VB3iRI2dRGXcnQh8/view?usp=drivesdk)
 - 📫 Reach me at **mahmoudmorad56o@gmail.com**
 
 ---
