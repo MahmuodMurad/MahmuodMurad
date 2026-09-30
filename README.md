@@ -37,7 +37,7 @@
 `Node.js` `Express` `Prisma` `PostgreSQL` `MongoDB` `Supabase` `RESTful APIs` `Firebase (Auth, FCM, Dynamic Links)` `Postman` `Swagger`
 
 **Tools & Platforms**
-`Git` `GitHub` `VS Code` `Cursor` `Windsurf` `Google Maps` `Mapbox` `Hostinger`
+`Git` `GitHub` `VS Code` `Cursor` `Windsurf` `Claude` `OpenCode` `AntiGravity` `Google Maps` `Mapbox` `Hostinger`
 
 **Other**
 `Data Structures & Algorithms` `AI Tools` `Local Storage` `Animations`
